@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="100" height="100" viewBox="0 0 114 114" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>Signet U-Bahn</title>
+	<desc>© VBB http://www.vbb.de/de/article/ueber-uns/media-service/produktsignets/3306.html</desc>
+	<g id="u-bahn" fill-rule="evenodd">
+		<polygon points="0.32555 113.41406 113.71155 113.41406 113.71155 0.02806 0.32555 0.02806" fill="#00629E"/>
+		<path d="M95.202,70.386 C95.202,96.086 74.131,105.5062 56.902,105.5062 C39.557,105.5062 18.835,96.086 18.835,70.386 L18.835,8.983 L41.186,8.983 L41.186,68.176 C41.186,78.991 45.028,86.667 56.902,86.667 C68.66,86.667 72.501,78.991 72.501,68.176 L72.501,8.983 L95.202,8.983 L95.202,70.386 L95.202,70.386 Z" fill="#fff"/>
+	</g>
+</svg>

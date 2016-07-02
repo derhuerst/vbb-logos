@@ -2,7 +2,7 @@
 <svg width="100" height="100" viewBox="0 0 114 114" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 	<title>Signet Tram</title>
 	<desc>© VBB http://www.vbb.de/de/article/ueber-uns/media-service/produktsignets/3306.html</desc>
-	<g id="tram" fill-rule="evenodd">
+	<g id="tram" fill-rule="evenodd" transform="scale(0.8771929825)">
 		<polygon points="0.048985 113.85188 113.434985 113.85188 113.434985 0.46588 0.048985 0.46588" fill="#D9222A"/>
 		<polygon points="29.967 41.866 21.469 41.866 21.469 70.823 12.156 70.823 12.156 41.866 4.3563 41.866 4.3563 35.005 29.967 35.005" fill="#fff"/>
 		<path d="M43.354,52.798 C42.773,52.682 41.958,52.682 41.376,52.682 C37.65,52.682 35.788,54.891 35.788,59.31 L35.788,70.823 L27.173,70.823 L27.173,45.704 L34.74,45.704 L35.206,50.705 C36.603,46.169 39.047,45.006 42.889,45.006 L43.354,45.006 L43.354,52.798 L43.354,52.798 Z" fill="#fff"/>

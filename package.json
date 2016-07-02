@@ -1,0 +1,9 @@
+{
+	"name":        "vbb-logos",
+	"description": "Nice SVG logos for Berlin & Brandenburg public transport.",
+	"keywords":    ["vbb", "bvg", "public", "transport", "berlin"],
+	"author":      "Jannis R <mail@jannisr.de>",
+	"homepage":    "https://github.com/derhuerst/vbb-logos",
+	"repository":  "derhuerst/vbb-logos",
+	"license":     "CC-BY-4.0"
+}

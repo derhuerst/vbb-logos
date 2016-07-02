@@ -5,6 +5,26 @@
 ![CC-licensed](https://img.shields.io/github/license/derhuerst/vbb-logos.svg)
 
 
+## Usage
+
+The logos are defined in [`signets.svg`](signets.svg). Put `signets.svg` in your web project and embed logos as follows.
+
+```css
+.icon { width: 1em; height: 1em; }
+```
+
+```html
+<svg class="icon u-bahn" viewBox="0 0 100 100">
+	<use xlink:href="path/to/signets.svg#u-bahn"/>
+</svg>
+```
+
+*Note*: IE does not support SVG `<use>` with things from other files.
+
+*Pro Tip*: If you want to hotlink `signets.svg`, use `https://cdn.rawgit.com/derhuerst/vbb-logos/master/signets.svg`.
+
+
+
 ## Attribution
 
 The logos for *Regionalverkehr*, *S-Bahn*, *U-Bahn*, *Tram*, *Ruf-Bus*, *Express-Bus* and *Ausflugs-Bus* are © VBB. [more infos](http://www.vbb.de/de/article/ueber-uns/media-service/produktsignets/3306.html)

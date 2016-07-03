@@ -14,8 +14,8 @@ The logos are defined in [`signets.svg`](signets.svg). Put `signets.svg` in your
 ```
 
 ```html
-<svg class="icon u-bahn" viewBox="0 0 100 100">
-	<use xlink:href="path/to/signets.svg#u-bahn"/>
+<svg class="icon subway" viewBox="0 0 100 100">
+	<use xlink:href="path/to/signets.svg#subway"/>
 </svg>
 ```
 

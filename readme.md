@@ -7,21 +7,32 @@
 
 ## Usage
 
-The logos are defined in [`signets.svg`](signets.svg). Put `signets.svg` in your web project and embed logos as follows.
+Put `subway.svg` in your web project and embed logos as follows.
 
 ```css
 .icon { width: 1em; height: 1em; }
 ```
 
 ```html
-<svg class="icon subway" viewBox="0 0 100 100">
-	<use xlink:href="path/to/signets.svg#subway"/>
-</svg>
+<img class="icon subway" href="path/to/subway.svg"/>
 ```
 
-*Note*: IE does not support SVG `<use>` with things from other files.
+*Pro Tip*: If you want to hotlink `subway.svg`, use `https://cdn.rawgit.com/derhuerst/vbb-logos/v2/subway.svg`.
 
-*Pro Tip*: If you want to hotlink `signets.svg`, use `https://cdn.rawgit.com/derhuerst/vbb-logos/master/signets.svg`.
+### Available Logos
+
+- [`subway.svg`](subway.svg)
+- [`suburban.svg`](suburban.svg)
+- [`regional.svg`](regional.svg)
+- [`express.svg`](express.svg)
+- [`tram.svg`](tram.svg)
+- [`metro-tram.svg`](metro-tram.svg)
+- [`bus.svg`](bus.svg)
+- [`metro-bus.svg`](metro-bus.svg)
+- [`express-bus.svg`](express-bus.svg)
+- [`special-bus.svg`](special-bus.svg)
+- [`on-call-bus.svg`](on-call-bus.svg)
+- [`ferry.svg`](ferry.svg)
 
 
 

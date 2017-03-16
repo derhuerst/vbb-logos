@@ -3,6 +3,7 @@
 **Nice SVG logos for Berlin & Brandenburg public transport.**
 
 ![CC-licensed](https://img.shields.io/github/license/derhuerst/vbb-logos.svg)
+[![gitter channel](https://badges.gitter.im/derhuerst/vbb-rest.svg)](https://gitter.im/derhuerst/vbb-rest)
 
 
 ## Usage

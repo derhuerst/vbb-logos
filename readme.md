@@ -32,7 +32,7 @@ Put `subway.svg` in your web project and embed logos as follows.
 - [`metro-bus.svg`](metro-bus.svg)
 - [`express-bus.svg`](express-bus.svg)
 - [`special-bus.svg`](special-bus.svg)
-- [`on-call-bus.svg`](on-call-bus.svg)
+- [`demand-responsive-bus.svg`](demand-responsive-bus.svg)
 - [`ferry.svg`](ferry.svg)
 
 

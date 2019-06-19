@@ -18,8 +18,6 @@ Put `subway.svg` in your web project and embed logos as follows.
 <img class="icon subway" href="path/to/subway.svg"/>
 ```
 
-*Pro Tip*: If you want to hotlink `subway.svg`, use `https://cdn.rawgit.com/derhuerst/vbb-logos/v2/subway.svg`.
-
 ### Available Logos
 
 - [`subway.svg`](subway.svg)
